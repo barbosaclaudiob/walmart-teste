@@ -1,4 +1,4 @@
-##O que deve estar configurado?:
+##O que deve estar configurado?
 - Maven
 - Java 8
 

@@ -1,7 +1,7 @@
-REQUISITOS:
+#Requisitos:
 
-Maven
-Java 8
+##Maven
+##Java 8
 
 Como usar?
 
@@ -18,7 +18,6 @@ O banco de dados tem o nome "db", o arquivo será criado na pasta pessoal do usu
 Arquivos criados; db.lck, db.log, db.properties, db.script
 
 Recomendações WebService:
-
 
 Comentários sobre o exercicio:
 

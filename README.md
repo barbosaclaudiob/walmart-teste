@@ -18,7 +18,7 @@ exemplo: http://localhost:8080/walmart-teste/rs/A/D/10/2,50
 POST http://localhost:8080/walmart-teste/rs/
 
 Exemplo de requisição para salvar o mapa no banco:
-
+```json
 {
    "nome":"Mapa SP",
    "rotas":[
@@ -54,6 +54,7 @@ Exemplo de requisição para salvar o mapa no banco:
       }
    ]
 }
+```
 
 ##Comentários sobre o exercicio:
 

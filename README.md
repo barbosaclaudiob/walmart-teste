@@ -1,6 +1,6 @@
 ##Requisitos:
--Maven
--Java 8
+1. Maven
+2. Java 8
 ##Como usar?
 
 ######Clone o repositório.

@@ -1,4 +1,4 @@
-##Requisitos:
+##O que deve estar configurado?:
 - Maven
 - Java 8
 
@@ -18,6 +18,7 @@ exemplo: http://localhost:8080/walmart-teste/rs/A/D/10/2,50
 POST http://localhost:8080/walmart-teste/rs/
 
 Exemplo de requisição para salvar o mapa no banco:
+Sugiro utilizar o Postman para requisitar.
 ```json
 {
    "nome":"Mapa SP",
@@ -56,8 +57,8 @@ Exemplo de requisição para salvar o mapa no banco:
 }
 ```
 
-##Comentários sobre o exercicio:
-
+##Comentários sobre o exercício:
+Exercício com grau de dificuldade elevado, deve ter conhecimento específico em Collections, Webservice e Algoritmo de Dijkstra. Gostaria de mais tempo para implementar os testes.
 
 
 
